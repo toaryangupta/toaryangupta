@@ -7,8 +7,8 @@
 
 - 👋 Hi, I’m Aryan Gupta
 - 👀 I’m interested in blockchain technology
+-  👯 We can connect to play some games of Chess ♟🙂
 <!-- - 💞️ I’m looking to collaborate on any project -->
--  👯 We can connect to play some games of Chess ♟
 
 <hr> 
 
@@ -52,8 +52,15 @@ You can click the Preview link to take a look at your changes.
 - ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=toaryangupta&show_icons=true&theme=radical)
 
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toaryangupta&layout=compact&theme=radical)
+ 
+- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toaryangupta&theme=radical" alt="toaryangupta" /></p>
+
 
 <hr> 
+ 
+
+
+
 
 
 <!-- <a href="https://github.com/toaryangupta/">
