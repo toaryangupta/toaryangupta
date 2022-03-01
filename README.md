@@ -9,9 +9,14 @@
 - 👀 I’m interested in blockchain technology
 <!-- - 💞️ I’m looking to collaborate on any project -->
 -  👯 We can connect to play some games of Chess ♟
+
+<hr> 
+
  #### 📫 How to reach me:
   
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/its_AryanGupta)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/toaryangupta/)  &nbsp;  <a href="mailto:toaryangupta@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+ <hr> 
 
 ### Languages
   
