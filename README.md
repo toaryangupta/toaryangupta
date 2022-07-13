@@ -3,7 +3,7 @@
 
 <hr> 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="10%"> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20%"> About Me:
 
 - 👋 Hi, I’m Aryan Gupta
 - 👀 I’m interested in blockchain technology
