@@ -1,9 +1,10 @@
-# Hello, folks! <img src="https://user-images.githubusercontent.com/99306046/156202483-11ca7c36-1c2a-4f3e-98bb-6096ae047dd5.gif" width="5%">
+# Hello, folks! <img src="https://user-images.githubusercontent.com/99306046/156202483-11ca7c36-1c2a-4f3e-98bb-6096ae047dd5.gif" width="20%">
+
 [![Visits Badge](https://badges.pufler.dev/visits/toaryangupta/toaryangupta)](https://badges.pufler.dev/visits/toaryangupta/toaryangupta)
 
 <hr> 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width=30%"> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30%">About Me:
 
 - 👋 Hi, I’m Aryan Gupta
 - 👀 I’m interested in blockchain technology
@@ -45,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr> 
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='10%'> My Github Stats:
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='20%'> My Github Stats:
 
 
 
