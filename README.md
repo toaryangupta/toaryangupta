@@ -50,9 +50,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=toaryangupta&show_icons=true&theme=radical)
+- ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=toaryangupta&show_icons=true&theme=radical&count_private=true)
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toaryangupta&layout=compact&theme=radical)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toaryangupta&layout=compact&theme=radical&count_private=true)
  
 - <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toaryangupta&theme=radical" alt="toaryangupta" /></p>
 
