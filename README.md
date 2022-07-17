@@ -1,6 +1,7 @@
 # Hello, folks! <img src="https://user-images.githubusercontent.com/99306046/156202483-11ca7c36-1c2a-4f3e-98bb-6096ae047dd5.gif" width="20%">
-
-[![Visits Badge](https://badges.pufler.dev/visits/toaryangupta/toaryangupta)](https://badges.pufler.dev/visits/toaryangupta/toaryangupta)
+<!--
+[![Visits Badge](https://badges.pufler.dev/visits/toaryangupta/toaryangupta)](https://badges.pufler.dev/visits/toaryangupta/toaryangupta) -->
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=toaryangupta&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 <hr> 
 
