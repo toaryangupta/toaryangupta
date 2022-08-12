@@ -1,11 +1,11 @@
-# Hello, folks! <img src="https://user-images.githubusercontent.com/99306046/156202483-11ca7c36-1c2a-4f3e-98bb-6096ae047dd5.gif" width="20%">
+# Hello, folks! <img src="https://user-images.githubusercontent.com/99306046/156202483-11ca7c36-1c2a-4f3e-98bb-6096ae047dd5.gif" width="5%">
 <!--
 [![Visits Badge](https://badges.pufler.dev/visits/toaryangupta/toaryangupta)](https://badges.pufler.dev/visits/toaryangupta/toaryangupta) -->
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=toaryangupta&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 <hr> 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30%">About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="5%">About Me:
 
 - 👋 Hi, I’m Aryan Gupta
 - 👀 I’m interested in blockchain technology
@@ -27,7 +27,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
   
 
 ### Technologies
@@ -35,9 +35,20 @@
 <!-- ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![ANGULAR](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![ElectronJs](https://img.shields.io/badge/-Electron-000?style=flat-square&logo=Electron)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=React)
+<!---
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+--->
+
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+
+![ANGULAR](https://img.shields.io/badge/-Angular-000?style=flat-square&logo=Angular)
 
 
 <!---
@@ -47,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr> 
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='20%'> My Github Stats:
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='5%'> My Github Stats:
 
 
 
