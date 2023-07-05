@@ -62,10 +62,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=toaryangupta&count_private=true&show_icons=true&theme=radical)
+- ![Aryan's GitHub stats](https://readme-stats-ndal.vercel.app/api?username=toaryangupta&count_private=true&show_icons=true&theme=radical)
 
 <!-- - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toaryangupta&layout=compact&count_private=true&theme=radical&langs_count=8) -->
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toaryangupta&layout=compact&count_private=true&theme=radical&langs_count=8)](https://github.com/toaryangupta)
+- [![Top Langs](https://readme-stats-ndal.vercel.app/api/top-langs/?username=toaryangupta&layout=compact&count_private=true&theme=radical&langs_count=8)](https://github.com/toaryangupta)
 
 
 - <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toaryangupta&theme=radical&count_private=true" alt="toaryangupta" /></p>
